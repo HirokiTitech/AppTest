@@ -1,0 +1,44 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">CycleLife.Type2</string>
+    <string name="toast_no_accel_error">No accelerometer!!</string>
+    <string name="toast_no_magneto_error">No magnetometer!!</string>
+    <string name="toast_requires_permission">This application requires permission %s!!</string>
+    <string name="location_format">Latitude: %1$f, Longitude: %2$f</string>
+    <string name="posture_format">Yaw: %1$.1f, Pitch: %2$.1f, Roll: %3$.1f</string>
+    <string name="velocity_format">%1$.1f km/h</string>
+    <string name="distance_format">%1$.1f m</string>
+    <string name="slope_format">%1$d deg.</string>
+    <string name="button_start">START</string>
+    <string name="button_hold">HOLD</string>
+    <string name="button_reset">RESET</string>
+    <string name="button_calculate">CALCULATE</string>
+    <string name="button_connect">CONNECT</string>
+    <string name="text_velocity">Velocity</string>
+    <string name="text_distance">Distance</string>
+    <string name="text_time">Time</string>
+    <string name="text_slope">Slope</string>
+    <string name="text_deceleration">Deceleration</string>
+    <string name="text_turn_right">Turn Right</string>
+    <string name="text_turn_left">Turn Left</string>
+    <string name="text_running">Running</string>
+    <string name="text_stop">Stop</string>
+    <string name="toast_no_telephone_error">No telephone!!</string>
+    <string name="toast_no_gravity_error">No gravitymeter!!</string>
+    <!--  DeviceListActivity -->
+    <string name="scanning">scanning for devices…</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <!--  Bluetooth -->
+    <string name="send">Send</string>
+    <string name="not_connected">You are not connected to a device</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving App.</string>
+    <string name="title_connected">connected</string>
+    <string name="title_connecting">connecting…</string>
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_not_connected">not connected</string>
+
+</resources>
